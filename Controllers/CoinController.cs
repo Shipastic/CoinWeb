@@ -27,7 +27,7 @@ namespace CoinWeb.Controllers
         // GET: Coin/Details/5
         public async Task<IActionResult> Details(int? id)
         {
-            if (id == null)
+            if (id == null || !_context.Coins.Any(c => c.Id ==id))
             {
                 return NotFound();
             }
@@ -43,7 +43,7 @@ namespace CoinWeb.Controllers
                 _cache.Set(coin.Id, coin, new MemoryCacheEntryOptions().SetAbsoluteExpiration(TimeSpan.FromMinutes(1)));
             }
             else
-                Console.WriteLine($"Coin Id:{coin.Id} get from cache");
+                Console.WriteLine($"Coin Id:{coin?.Id} get from cache");
 
             return View(coin);
         }
