@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0HRt+tNuTwJ0Cjow6mRepLZYSjNmanI70yqpp/e1oBdioxabG8Z5QGcuBFofyEYFORnDERWtbFuF3f9eWlLmTA==",
+  "dgSpecHash": "BMifMuEoNn1oJEz435wZUFpcCdSHgPbPoJ8eZAGYH1O4TkrSDkyz1NI6TTJohjfQo7CnAFyZRP85ZKO08mbOjw==",
   "success": true,
-  "projectFilePath": "C:\\CoinWeb\\CoinWeb\\CoinWeb.csproj",
+  "projectFilePath": "C:\\Users\\Student\\source\\repos\\CoinWeb\\CoinWeb\\CoinWeb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Student\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Student\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

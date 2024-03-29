@@ -17,59 +17,59 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CoinWeb
 build_property.RootNamespace = CoinWeb
-build_property.ProjectDir = C:\CoinWeb\CoinWeb\
+build_property.ProjectDir = C:\Users\Student\source\repos\CoinWeb\CoinWeb\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\CoinWeb\CoinWeb
+build_property.MSBuildProjectDirectory = C:\Users\Student\source\repos\CoinWeb\CoinWeb
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/CoinWeb/CoinWeb/Views/Coin/Create.cshtml]
+[C:/Users/Student/source/repos/CoinWeb/CoinWeb/Views/Coin/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29pblxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/CoinWeb/CoinWeb/Views/Coin/Delete.cshtml]
+[C:/Users/Student/source/repos/CoinWeb/CoinWeb/Views/Coin/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29pblxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/CoinWeb/CoinWeb/Views/Coin/Details.cshtml]
+[C:/Users/Student/source/repos/CoinWeb/CoinWeb/Views/Coin/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29pblxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/CoinWeb/CoinWeb/Views/Coin/Edit.cshtml]
+[C:/Users/Student/source/repos/CoinWeb/CoinWeb/Views/Coin/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29pblxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/CoinWeb/CoinWeb/Views/Coin/Index.cshtml]
+[C:/Users/Student/source/repos/CoinWeb/CoinWeb/Views/Coin/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29pblxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/CoinWeb/CoinWeb/Views/Home/Index.cshtml]
+[C:/Users/Student/source/repos/CoinWeb/CoinWeb/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/CoinWeb/CoinWeb/Views/Home/Privacy.cshtml]
+[C:/Users/Student/source/repos/CoinWeb/CoinWeb/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/CoinWeb/CoinWeb/Views/Shared/Error.cshtml]
+[C:/Users/Student/source/repos/CoinWeb/CoinWeb/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/CoinWeb/CoinWeb/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Student/source/repos/CoinWeb/CoinWeb/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/CoinWeb/CoinWeb/Views/_ViewImports.cshtml]
+[C:/Users/Student/source/repos/CoinWeb/CoinWeb/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/CoinWeb/CoinWeb/Views/_ViewStart.cshtml]
+[C:/Users/Student/source/repos/CoinWeb/CoinWeb/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/CoinWeb/CoinWeb/Views/Shared/_Layout.cshtml]
+[C:/Users/Student/source/repos/CoinWeb/CoinWeb/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-99u7wkx9fi

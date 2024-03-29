@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CoinWeb\\CoinWeb\\CoinWeb.csproj": {}
+    "C:\\Users\\Student\\source\\repos\\CoinWeb\\CoinWeb\\CoinWeb.csproj": {}
   },
   "projects": {
-    "C:\\CoinWeb\\CoinWeb\\CoinWeb.csproj": {
+    "C:\\Users\\Student\\source\\repos\\CoinWeb\\CoinWeb\\CoinWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CoinWeb\\CoinWeb\\CoinWeb.csproj",
+        "projectUniqueName": "C:\\Users\\Student\\source\\repos\\CoinWeb\\CoinWeb\\CoinWeb.csproj",
         "projectName": "CoinWeb",
-        "projectPath": "C:\\CoinWeb\\CoinWeb\\CoinWeb.csproj",
+        "projectPath": "C:\\Users\\Student\\source\\repos\\CoinWeb\\CoinWeb\\CoinWeb.csproj",
         "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
-        "outputPath": "C:\\CoinWeb\\CoinWeb\\obj\\",
+        "outputPath": "C:\\Users\\Student\\source\\repos\\CoinWeb\\CoinWeb\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
