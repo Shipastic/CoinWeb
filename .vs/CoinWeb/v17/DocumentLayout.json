@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Student\\source\\repos\\CoinWeb\\CoinWeb\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BE2F8251-ACAE-483B-B22C-A047DCBEF370}|CoinWeb.csproj|c:\\users\\student\\source\\repos\\coinweb\\coinweb\\controllers\\coincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE2F8251-ACAE-483B-B22C-A047DCBEF370}|CoinWeb.csproj|solutionrelative:controllers\\coincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BE2F8251-ACAE-483B-B22C-A047DCBEF370}|CoinWeb.csproj|c:\\users\\student\\source\\repos\\coinweb\\coinweb\\models\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE2F8251-ACAE-483B-B22C-A047DCBEF370}|CoinWeb.csproj|solutionrelative:models\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2F8251-ACAE-483B-B22C-A047DCBEF370}|CoinWeb.csproj|c:\\users\\student\\source\\repos\\coinweb\\coinweb\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BE2F8251-ACAE-483B-B22C-A047DCBEF370}|CoinWeb.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2F8251-ACAE-483B-B22C-A047DCBEF370}|CoinWeb.csproj|c:\\users\\student\\source\\repos\\coinweb\\coinweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BE2F8251-ACAE-483B-B22C-A047DCBEF370}|CoinWeb.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BE2F8251-ACAE-483B-B22C-A047DCBEF370}|CoinWeb.csproj|c:\\users\\student\\source\\repos\\coinweb\\coinweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE2F8251-ACAE-483B-B22C-A047DCBEF370}|CoinWeb.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2F8251-ACAE-483B-B22C-A047DCBEF370}|CoinWeb.csproj|c:\\users\\student\\source\\repos\\coinweb\\coinweb\\controllers\\coincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE2F8251-ACAE-483B-B22C-A047DCBEF370}|CoinWeb.csproj|solutionrelative:controllers\\coincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BE2F8251-ACAE-483B-B22C-A047DCBEF370}|CoinWeb.csproj|c:\\users\\student\\source\\repos\\coinweb\\coinweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -21,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{BE2F8251-ACAE-483B-B22C-A047DCBEF370}|CoinWeb.csproj|c:\\users\\student\\source\\repos\\coinweb\\coinweb\\models\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE2F8251-ACAE-483B-B22C-A047DCBEF370}|CoinWeb.csproj|solutionrelative:models\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE2F8251-ACAE-483B-B22C-A047DCBEF370}|CoinWeb.csproj|c:\\users\\student\\source\\repos\\coinweb\\coinweb\\models\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE2F8251-ACAE-483B-B22C-A047DCBEF370}|CoinWeb.csproj|solutionrelative:models\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BE2F8251-ACAE-483B-B22C-A047DCBEF370}|CoinWeb.csproj|c:\\users\\student\\source\\repos\\coinweb\\coinweb\\views\\coin\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -49,20 +57,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\CoinWeb\\CoinWeb\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Student\\source\\repos\\CoinWeb\\CoinWeb\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-29T09:24:58.465Z",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\CoinWeb\\CoinWeb\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\CoinWeb\\CoinWeb\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-29T09:59:50.21Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\CoinWeb\\CoinWeb\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -74,20 +82,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\CoinWeb\\CoinWeb\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Student\\source\\repos\\CoinWeb\\CoinWeb\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAgwCYAAAAAAAAA",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwCsAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-28T13:32:57.119Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-28T13:32:57.119Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "CoinTest.cs",
               "DocumentMoniker": "C:\\CoinWeb\\CoinWeb.Test\\CoinTest.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\CoinWeb\\CoinWeb.Test\\CoinTest.cs",
@@ -99,7 +106,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\CoinWeb\\CoinWeb\\Views\\Coin\\Details.cshtml",
               "RelativeDocumentMoniker": "Views\\Coin\\Details.cshtml",
@@ -112,6 +119,43 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\CoinWeb\\CoinWeb\\Models\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationContext.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\CoinWeb\\CoinWeb\\Models\\ApplicationContext.cs",
+              "RelativeToolTip": "Models\\ApplicationContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAACNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T08:29:19.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\CoinWeb\\CoinWeb\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\CoinWeb\\CoinWeb\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-29T09:24:58.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\CoinWeb\\CoinWeb\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\CoinWeb\\CoinWeb\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-29T09:59:43.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "CoinController.cs",
               "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\CoinWeb\\CoinWeb\\Controllers\\CoinController.cs",
               "RelativeDocumentMoniker": "Controllers\\CoinController.cs",
@@ -119,24 +163,11 @@
               "RelativeToolTip": "Controllers\\CoinController.cs",
               "ViewState": "AQIAABEAAAAAAAAAAAAowBoAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-28T08:43:51.521Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-28T08:43:51.521Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ApplicationContext.cs",
-              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\CoinWeb\\CoinWeb\\Models\\ApplicationContext.cs",
-              "RelativeDocumentMoniker": "Models\\ApplicationContext.cs",
-              "ToolTip": "C:\\Users\\Student\\source\\repos\\CoinWeb\\CoinWeb\\Models\\ApplicationContext.cs",
-              "RelativeToolTip": "Models\\ApplicationContext.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAowBQAAACNAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-28T08:29:19.627Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Coin.cs",
               "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\CoinWeb\\CoinWeb\\Models\\Coin.cs",
               "RelativeDocumentMoniker": "Models\\Coin.cs",
