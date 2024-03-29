@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CoinWeb\\CoinWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2F8251-ACAE-483B-B22C-A047DCBEF370}|CoinWeb.csproj|c:\\coinweb\\coinweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE2F8251-ACAE-483B-B22C-A047DCBEF370}|CoinWeb.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2F8251-ACAE-483B-B22C-A047DCBEF370}|CoinWeb.csproj|c:\\coinweb\\coinweb\\controllers\\coincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE2F8251-ACAE-483B-B22C-A047DCBEF370}|CoinWeb.csproj|solutionrelative:controllers\\coincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D513E188-57A5-41DC-9795-134DA1C29AF5}|..\\CoinWeb.Test\\CoinWeb.Test.csproj|c:\\coinweb\\coinweb.test\\cointest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2F8251-ACAE-483B-B22C-A047DCBEF370}|CoinWeb.csproj|c:\\coinweb\\coinweb\\models\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE2F8251-ACAE-483B-B22C-A047DCBEF370}|CoinWeb.csproj|solutionrelative:models\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2F8251-ACAE-483B-B22C-A047DCBEF370}|CoinWeb.csproj|c:\\coinweb\\coinweb\\models\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE2F8251-ACAE-483B-B22C-A047DCBEF370}|CoinWeb.csproj|solutionrelative:models\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2F8251-ACAE-483B-B22C-A047DCBEF370}|CoinWeb.csproj|c:\\coinweb\\coinweb\\views\\coin\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE2F8251-ACAE-483B-B22C-A047DCBEF370}|CoinWeb.csproj|solutionrelative:views\\coin\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CoinWeb\\CoinWeb\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\CoinWeb\\CoinWeb\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T13:32:57.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CoinTest.cs",
+              "DocumentMoniker": "C:\\CoinWeb\\CoinWeb.Test\\CoinTest.cs",
+              "RelativeDocumentMoniker": "..\\CoinWeb.Test\\CoinTest.cs",
+              "ToolTip": "C:\\CoinWeb\\CoinWeb.Test\\CoinTest.cs",
+              "RelativeToolTip": "..\\CoinWeb.Test\\CoinTest.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T12:23:56.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\CoinWeb\\CoinWeb\\Views\\Coin\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Coin\\Details.cshtml",
+              "ToolTip": "C:\\CoinWeb\\CoinWeb\\Views\\Coin\\Details.cshtml",
+              "RelativeToolTip": "Views\\Coin\\Details.cshtml",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAswBgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T09:00:57.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CoinController.cs",
+              "DocumentMoniker": "C:\\CoinWeb\\CoinWeb\\Controllers\\CoinController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CoinController.cs",
+              "ToolTip": "C:\\CoinWeb\\CoinWeb\\Controllers\\CoinController.cs",
+              "RelativeToolTip": "Controllers\\CoinController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAuwCgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T08:43:51.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "C:\\CoinWeb\\CoinWeb\\Models\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationContext.cs",
+              "ToolTip": "C:\\CoinWeb\\CoinWeb\\Models\\ApplicationContext.cs",
+              "RelativeToolTip": "Models\\ApplicationContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAowBQAAACNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T08:29:19.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Coin.cs",
+              "DocumentMoniker": "C:\\CoinWeb\\CoinWeb\\Models\\Coin.cs",
+              "RelativeDocumentMoniker": "Models\\Coin.cs",
+              "ToolTip": "C:\\CoinWeb\\CoinWeb\\Models\\Coin.cs",
+              "RelativeToolTip": "Models\\Coin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T08:28:11.34Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

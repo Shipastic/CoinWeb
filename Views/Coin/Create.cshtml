@@ -1,0 +1,53 @@
+﻿@model CoinWeb.Models.Coin
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Coin</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Year" class="control-label"></label>
+                <input asp-for="Year" class="form-control" />
+                <span asp-validation-for="Year" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Country" class="control-label"></label>
+                <input asp-for="Country" class="form-control" />
+                <span asp-validation-for="Country" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Metal" class="control-label"></label>
+                <input asp-for="Metal" class="form-control" />
+                <span asp-validation-for="Metal" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Face" class="control-label"></label>
+                <input asp-for="Face" class="form-control" />
+                <span asp-validation-for="Face" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Denomination" class="control-label"></label>
+                <input asp-for="Denomination" class="form-control" />
+                <span asp-validation-for="Denomination" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

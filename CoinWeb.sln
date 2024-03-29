@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoinWeb", "CoinWeb.csproj", "{BE2F8251-ACAE-483B-B22C-A047DCBEF370}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoinWeb.Test", "..\CoinWeb.Test\CoinWeb.Test.csproj", "{D513E188-57A5-41DC-9795-134DA1C29AF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE2F8251-ACAE-483B-B22C-A047DCBEF370}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE2F8251-ACAE-483B-B22C-A047DCBEF370}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE2F8251-ACAE-483B-B22C-A047DCBEF370}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE2F8251-ACAE-483B-B22C-A047DCBEF370}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D513E188-57A5-41DC-9795-134DA1C29AF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D513E188-57A5-41DC-9795-134DA1C29AF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D513E188-57A5-41DC-9795-134DA1C29AF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D513E188-57A5-41DC-9795-134DA1C29AF5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D043B91-6671-410C-BE3F-84A1247EFB19}
+	EndGlobalSection
+EndGlobal
